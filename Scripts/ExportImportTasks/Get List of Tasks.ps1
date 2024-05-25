@@ -1,0 +1,1 @@
+Get-ScheduledTask | where{$_.TaskPath -like "\WMS\*"} | Get-ScheduledTaskInfo | Select-Object { '"' + $_.TaskPath + $_.TaskName + '"' }

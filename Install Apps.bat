@@ -1,4 +1,3 @@
-winget install --scope machine -s winget "Auto Dark Mode"
 winget install --scope machine -s winget IDM
 winget install --scope machine -s winget Microsoft.PowerShell
 winget install --scope machine -s winget Monitorian

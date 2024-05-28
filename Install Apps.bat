@@ -12,5 +12,5 @@ winget install --scope machine -s winget WinRAR
 winget install -s msstore --accept-package-agreements --accept-source-agreements "Dynamic Theme"
 curl -L -o %temp%\rarkey.rar https://github.com/dineshmike/dineshmike/raw/main/rarkey.rar
 start %temp%\rarkey.rar
-curl -L -o %AppData%\Everything\Everything.ini https://github.com/dineshmike/dineshmike/raw/main/Everything.ini
+curl -L -o %AppData%\Everything\Everything.ini --create-dirs https://github.com/dineshmike/dineshmike/raw/main/Everything.ini
 pause

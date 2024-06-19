@@ -17,3 +17,10 @@
 "PaymentMethodQueryEnabled"=dword:00000000
 "BingAdsSuppression"=dword:00000000
 "PromotionalTabsEnabled"=dword:00000000
+"AddressBarMicrosoftSearchInBingProviderEnabled"=dword:00000000
+"WebWidgetAllowed"=dword:00000000
+"NewTabPageHideDefaultTopSites"=dword:00000001
+"NewTabPageContentEnabled"=dword:00000000
+"NewTabPageAppLauncherEnabled"=dword:00000000
+"AllowGamesMenu"=dword:00000000
+"VisualSearchEnabled"=dword:00000000

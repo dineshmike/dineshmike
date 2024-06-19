@@ -4,6 +4,16 @@
 
 [HKEY_CURRENT_USER\Software\Policies\Microsoft\Edge]
 "HubsSidebarEnabled"=dword:00000000
-
-[HKEY_CURRENT_USER\Software\Policies\Microsoft\Edge]
 "PersonalizationReportingEnabled"=dword:00000000
+"AllowSurfGame"=dword:00000000
+"AutofillCreditCardEnabled"=dword:00000000
+"SmartScreenEnabled"=dword:00000000
+"EdgeShoppingAssistantEnabled"=dword:00000000
+"ShowMicrosoftRewards"=dword:00000000
+"DownloadRestrictions"=dword:00000000
+"PasswordMonitorAllowed"=dword:00000000
+"UserFeedbackAllowed"=dword:00000000
+"FamilySafetySettingsEnabled"=dword:00000000
+"PaymentMethodQueryEnabled"=dword:00000000
+"BingAdsSuppression"=dword:00000000
+"PromotionalTabsEnabled"=dword:00000000

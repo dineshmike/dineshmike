@@ -1,7 +1,5 @@
 ﻿Windows Registry Editor Version 5.00
 
-;Created by Vishal Gupta for AskVG.com
-
 [HKEY_CURRENT_USER\Software\Policies\Microsoft\Edge]
 "HubsSidebarEnabled"=dword:00000000
 "PersonalizationReportingEnabled"=dword:00000000

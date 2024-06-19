@@ -1,6 +1,5 @@
 winget install --scope machine -s winget IDM
 winget install --scope machine -s winget Microsoft.PowerShell
-winget install --scope machine -s winget Monitorian
 winget install --scope machine -s winget Notepad++
 winget install -s winget Paint.Net
 winget install --scope machine -s winget PowerToys

@@ -37,3 +37,6 @@
 "EdgeCollectionsEnabled"=dword:00000000
 "LocalBrowserDataShareEnabled"=dword:00000000
 "EdgeCopilotEnabled"=dword:00000000
+"HideFirstRunExperience"=dword:00000001
+"StandaloneHubsSidebarEnabled"=dword:00000000
+"MicrosoftEdgeInsiderPromotionEnabled"=dword:00000000

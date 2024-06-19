@@ -34,3 +34,6 @@
 "SpotlightExperiencesAndRecommendationsEnabled"=dword:00000000
 "PasswordGeneratorEnabled"=dword:00000000
 "AllowWebContentOnNewTabPage"=dword:00000000
+"EdgeCollectionsEnabled"=dword:00000000
+"LocalBrowserDataShareEnabled"=dword:00000000
+"EdgeCopilotEnabled"=dword:00000000

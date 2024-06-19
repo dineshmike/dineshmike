@@ -24,3 +24,13 @@
 "NewTabPageAppLauncherEnabled"=dword:00000000
 "AllowGamesMenu"=dword:00000000
 "VisualSearchEnabled"=dword:00000000
+"QuickSearchShowMiniMenu"=dword:00000000
+"WebSelectEnabled"=dword:00000000
+"WebWidgetIsEnabledOnStartup"=dword:00000000
+"ShowAcrobatSubscriptionButton"=dword:00000000
+"DiagnosticData"=dword:00000000
+"EdgeDiscoverEnabled"=dword:00000000
+"AlternateErrorPagesEnabled"=dword:00000000
+"SpotlightExperiencesAndRecommendationsEnabled"=dword:00000000
+"PasswordGeneratorEnabled"=dword:00000000
+"AllowWebContentOnNewTabPage"=dword:00000000

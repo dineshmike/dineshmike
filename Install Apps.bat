@@ -4,7 +4,6 @@ winget install --scope machine -s winget Notepad++
 winget install -s winget Paint.Net
 winget install --scope machine -s winget PowerToys
 winget install -s winget xanderfrangos.twinkletray
-winget install -s winget MartiCliment.UniGetUI
 winget install --scope machine -s winget Windhawk
 winget install --scope machine -s winget voidtools.Everything
 winget install --scope machine -s winget Valve.Steam

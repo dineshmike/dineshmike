@@ -3,3 +3,5 @@
 - [Win11Debloat](https://github.com/Raphire/Win11Debloat)
 
 - [OFGB](https://github.com/xM4ddy/OFGB)
+
+- [Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil)
